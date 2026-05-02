@@ -1,5 +1,5 @@
 # Smart Queue Management System — Complete Project Explanation
-
+🌐 Live URLhttp://queue-dashboard-deepika.s3-website.ap-south-1.amazonaws.com
 ---
 
 ## 🎯 Project Goal
